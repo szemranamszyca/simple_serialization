@@ -1,0 +1,5 @@
+class:Person
+name_:ChangedName
+state_:1
+vInts_:1:2:3:2:5
+vvDouble_:3:3:2:2:1.23:4.4524:23.24:122:312.313:2.432:12.321
